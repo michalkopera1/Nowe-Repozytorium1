@@ -1,5 +1,17 @@
 #!/bin/bash
 
+wqweq
+
+eqeq
+e
+qweq
+echo211
+31
+23
+1
+312
+131313
+
 echo -e "Check kernel version:\n"
 cat /proc/version && uname -a
 echo -e "\n"
