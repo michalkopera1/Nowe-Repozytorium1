@@ -1,4 +1,13 @@
-# Prefer to recompress only idle pages. This will result in additional memory
+osfdgkpsgksg\
+recomp_algorithmsrge
+g
+recomp_algorithmwrewrge
+wrge
+wrge
+wrge
+wrge
+wantwge
+wrgewrgewg# Prefer to recompress only idle pages. This will result in additional memory
 # savings, but may slightly increase CPU load due to additional compression
 # overhead.
 ACTION=="add", KERNEL=="zram[0-9]*", ATTR{recomp_algorithm}="algo=lz4 priority=1", \
